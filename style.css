@@ -89,7 +89,7 @@ nav a {
     border-radius: 10px;
     background-color: #f8ebe3;
     padding: 110px;
-    margin: 130px 0;
+    margin: 50px ;
 
 }
 
@@ -109,4 +109,14 @@ nav a {
     font-size: 18px;
     font-weight: 400;
     
+}
+main{
+    max-width: 1140px;
+    /* margin: 0 auto; */
+    justify-content: center;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
 }
